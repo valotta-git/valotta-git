@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Olá! Eu sou o Victor Valotta
+Seja bem-vindo ao meu perfil!
+Estou iniciando minha trajetória na área de Cybersecurity e tecnologia.
+Fique à vontade para explorar e acompanhar meus projetos.
+
+📫 Vamos nos conectar!
+
+💼 https://www.linkedin.com/in/victorvalotta/
+
+📧 victor.valotta@gmail.com
 
 <!--
 **valotta-git/valotta-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
